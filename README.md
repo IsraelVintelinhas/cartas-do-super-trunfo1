@@ -1,2 +1,4 @@
 # cartas-do-super-trunfo1
-Desafio: Nível Novato
+Desafio: Fundamentos e Técnicas Avançadas
+
+O desafio se baseia em criar o jogo super trunfo em c de forma básica.
